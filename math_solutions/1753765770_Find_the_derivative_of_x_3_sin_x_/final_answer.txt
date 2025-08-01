@@ -1,0 +1,3 @@
+f'(x) = x^3 cos(x) + 3x^2 sin(x)
+
+Note that this is the derivative of the given function f(x) = x^3 sin(x).
